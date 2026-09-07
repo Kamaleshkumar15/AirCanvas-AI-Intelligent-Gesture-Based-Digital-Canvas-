@@ -1,0 +1,13 @@
+# Core
+numpy>=1.24
+opencv-python>=4.8
+mediapipe>=0.10
+
+# Optional OCR
+pytesseract>=0.3.10
+
+# Optional voice commands
+SpeechRecognition>=3.10
+
+# Optional microphone backend (Windows)
+PyAudio>=0.2.14
