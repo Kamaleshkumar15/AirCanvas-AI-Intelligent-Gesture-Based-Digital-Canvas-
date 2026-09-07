@@ -2,6 +2,9 @@
 
 ### 🖐️ Real-Time Hand Gesture Controlled Virtual Drawing System
 
+<img width="480" height="360" alt="PopArtGIFbyXinanimodelacra" src="https://github.com/user-attachments/assets/8780071d-4dbb-48f3-8383-f05e0911c66b" />
+
+
 **Air Canvas AI Pro** is a real-time **Computer Vision + Machine Learning** application that allows users to draw and interact with a virtual canvas using only **hand gestures** captured through a webcam. 🖥️📷
 
 The system uses **MediaPipe** for hand landmark detection, **OpenCV** for real-time image processing and rendering, and **NumPy** for numerical operations. Hand movements are converted into digital strokes, while different finger configurations are used to control drawing tools and interact with the virtual toolbar. 🧠🖐️
